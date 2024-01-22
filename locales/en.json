@@ -1,0 +1,12 @@
+{
+    "index": {
+        "sign_in": {
+            "text": "Sign In",
+            "description": "Login with your existing account"
+        },
+        "sign_up": {
+            "text": "New Account",
+            "description": "Setup your account"
+        }
+    }
+}
